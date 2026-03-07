@@ -1,11 +1,8 @@
-# Licență Bonef Teofil - Barieră Automată
-> Facultatea de Inginerie Mecanică și Mecatronică
+> Licență Bonef Teofil - Facultatea de Inginerie Mecanică și Mecatronică
+# Barieră Automatizată cu Identificare de Vehicule și Conectivitate Cloud
 
 Concept:
 
 ![Model 3D](Media/Model_3D.png)
 
-Schemă cinematică:
-
-![Schemă cinematică](Media/Schema_cinematica.png)
-
+[Vezi Diagramele Proiectului](Media/)
