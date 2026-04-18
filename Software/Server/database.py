@@ -4,6 +4,7 @@ from sqlalchemy import event
 from typing import Annotated
 
 from models.utilizator_model import Utilizator
+from models.parcare_model import Parcare
 
 
 baza_de_date = create_engine("sqlite:///database.db", connect_args={"check_same_thread": False})
