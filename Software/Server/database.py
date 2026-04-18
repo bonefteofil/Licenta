@@ -3,6 +3,8 @@ from sqlmodel import SQLModel, create_engine, Session, select
 from sqlalchemy import event
 from typing import Annotated
 
+from models.utilizator_model import Utilizator
+
 
 baza_de_date = create_engine("sqlite:///database.db", connect_args={"check_same_thread": False})
 
