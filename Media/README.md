@@ -1,13 +1,17 @@
-# Scheme
+# Media
 
 Model 3D:
 
-![Model 3D](/Media/Model_3D.png)
+<img src="./Model_3D.png" alt="Model 3D" width="400">
+
+Model 3D interior:
+
+<img src="./Model_3D_interior.jpg" alt="Model 3D interior" width="400">
 
 Model printat:
 
-![Model printat](/Media/Model_printat.jpg)
+<img src="./Model_printat.jpg" alt="Model printat" width="400">
 
-Circuitul electric:
+Circuit electric:
 
-![Circuitul electric](/Media/Circuitul_electric.jpg)
+<img src="./Circuit_electric.jpg" alt="Circuitul electric" width="400">
